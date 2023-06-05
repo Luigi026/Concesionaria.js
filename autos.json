@@ -1,0 +1,47 @@
+[
+    {
+        "marca": "Ferrari",
+        "modelo": "Formula 1",
+        "color": "azul",
+        "anio": 2019,
+        "km" : 200,
+        "precio" : 15000000,
+        "cuotas" : 12,
+        "patente" : "APL123",
+        "vendido" : false
+    },
+    {
+        "marca": "Lamborghini",
+        "modelo": "Aventador",
+        "color": "rojo",
+        "anio": 2022,
+        "km" : 0,
+        "precio" : 50000000,
+        "cuotas" : 14,
+        "patente" : "JJK116",
+        "vendido" : false
+        
+    },
+    {
+        "marca": "Porsche",
+        "modelo": "911",
+        "color": "amarillo",
+        "anio": 2022,
+        "km" : 0,
+        "precio" : 150000000,
+        "cuotas" : 10,
+        "patente" : "JJK117",
+        "vendido" : false
+    },
+    {
+        "marca": "Rolls Royce",
+        "modelo": "Phanton",
+        "color": "negro",
+        "anio": 2023,
+        "km" : 100,
+        "precio" : 100000000,
+        "cuotas" : 10,
+        "patente" : "JJK118",
+        "vendido" : false
+    }
+]
